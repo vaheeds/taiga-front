@@ -80,7 +80,7 @@
             "RANGE_CHECK": "می‌بایست بین %s الی %s انتخاب داشته باشید.",
             "EQUAL_TO": "این مقدار می‌بایست یکسان باشد",
             "LINEWIDTH": "احتمالاً یک یا چند خط بیش از حد طولانی است. سعی کنید کمتر از %s حرف داشته باشد.",
-            "PIKADAY": "فرمت تاریخ نامعتبر، لطفاً از فرمت روز ماه سال (مثل 23 مارس 1984) استفاده کنید"
+            "PIKADAY": "فرمت تاریخ نامعتبر، لطفاً از فرمت روز ماه سال (مثل 15 شهریور 1362) استفاده کنید"
         },
         "PICKERDATE": {
             "FORMAT": "DD MMM YYYY",
@@ -143,7 +143,7 @@
             "SLUG": "نام کوتاه",
             "COLOR": "رنگ",
             "IS_CLOSED": "آیا بسته شده؟",
-            "STATUS": "عیت",
+            "STATUS": "وضعیت",
             "TYPE": "نوع",
             "SEVERITY": "اهمیت",
             "PRIORITY": "اولویت",
@@ -237,13 +237,13 @@
             },
             "CATEGORIES": {
                 "TYPE": "نوع",
-                "STATUS": "عیت",
+                "STATUS": "وضعیت",
                 "SEVERITY": "اهمیت",
                 "PRIORITIES": "اولویت‌ها",
                 "TAGS": "برچسب‌ها",
                 "ASSIGNED_TO": "اختصاص یافته به",
                 "ASSIGNED_USERS": "کاربران اختصاص یافته",
-                "ROLE": "قش",
+                "ROLE": "نقش",
                 "CREATED_BY": "ایجاد توسط",
                 "CUSTOM_FILTERS": "فیلترهای سفارشی",
                 "EPIC": "Epic"
@@ -425,7 +425,7 @@
             "PROJECT": "پروژه",
             "SPRINT": "اسپرینت",
             "ASSIGNED_TO": "محول شده",
-            "STATUS": "عیت",
+            "STATUS": "وضعیت",
             "PROGRESS": "پیشرفت",
             "CLOSED_US": "بستن استوری‌های کاربر",
             "CLOSED_EPICS": "epicهای بسته شده",
@@ -741,8 +741,8 @@
         "MEMBERSHIP": {
             "COLUMN_MEMBER": "عضو",
             "COLUMN_ADMIN": "ادمین",
-            "COLUMN_ROLE": "قش",
-            "COLUMN_STATUS": "عیت",
+            "COLUMN_ROLE": "نقش",
+            "COLUMN_STATUS": "وضعیت",
             "STATUS_ACTIVE": "فعال",
             "STATUS_PENDING": "در انتظار",
             "DELETE_MEMBER": "حذف عضو",
@@ -1098,7 +1098,7 @@
         "SELECT_USER": {
             "SEARCH": "جست‌وجوی کاربران",
             "REMOVE": "حذف کاربر",
-            "ROLE": "قش"
+            "ROLE": "نقش"
         },
         "ADD_MEMBER": {
             "TITLE": "عضو جدید",
@@ -1523,7 +1523,7 @@
                 "PRIORITY": "اولویت",
                 "SUBJECT": "موضوع",
                 "VOTES": "رأی",
-                "STATUS": "عیت",
+                "STATUS": "وضعیت",
                 "MODIFIED": "تصحیح شده",
                 "ASSIGNED_TO": "اختصاص یافته به"
             },
